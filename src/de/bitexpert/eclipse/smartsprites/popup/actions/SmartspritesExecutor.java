@@ -1,4 +1,4 @@
-/*
+/**
  * Copyright (c) 2007-2011 bitExpert AG
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
@@ -21,7 +21,6 @@ package de.bitexpert.eclipse.smartsprites.popup.actions;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
-
 import org.carrot2.labs.smartsprites.SmartSpritesParameters;
 import org.carrot2.labs.smartsprites.SpriteBuilder;
 import org.carrot2.labs.smartsprites.SmartSpritesParameters.PngDepth;
@@ -38,7 +37,6 @@ import org.eclipse.jface.viewers.IStructuredSelection;
 import org.eclipse.ui.IActionDelegate;
 import org.eclipse.ui.IObjectActionDelegate;
 import org.eclipse.ui.IWorkbenchPart;
-
 import com.google.common.collect.Lists;
 
 

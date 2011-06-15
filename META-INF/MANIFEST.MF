@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Smartsprites Eclipse Plugin
 Bundle-SymbolicName: de.bitexpert.eclipse.smartsprites;singleton:=true
-Bundle-Version: 0.0.6
+Bundle-Version: 0.0.7
 Bundle-Activator: de.bitexpert.eclipse.smartsprites.SmartspriteActivator
 Bundle-Vendor: bitExpert AG
 Require-Bundle: org.eclipse.ui,
@@ -14,7 +14,7 @@ Bundle-ClassPath: lib/args4j-2.0.9.jar,
  lib/commons-io-1.4.jar,
  lib/commons-lang-2.3.jar,
  lib/commons-math-1.1.jar,
- lib/google-collections-1.0-rc2.jar,
- lib/smartsprites-0.2.6.jar,
  .,
- lib/junit-4.4.jar
+ lib/junit-4.4.jar,
+ lib/google-collections-1.0.jar,
+ lib/smartsprites-0.2.8.jar
