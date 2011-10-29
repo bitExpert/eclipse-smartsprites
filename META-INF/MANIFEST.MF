@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Smartsprites Eclipse Plugin
 Bundle-SymbolicName: de.bitexpert.eclipse.smartsprites;singleton:=true
-Bundle-Version: 0.0.7
+Bundle-Version: 0.0.9
 Bundle-Activator: de.bitexpert.eclipse.smartsprites.SmartspriteActivator
 Bundle-Vendor: bitExpert AG
 Require-Bundle: org.eclipse.ui,
