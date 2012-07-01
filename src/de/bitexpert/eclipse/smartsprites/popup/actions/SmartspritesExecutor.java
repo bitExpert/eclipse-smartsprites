@@ -43,7 +43,7 @@ import com.google.common.collect.Lists;
 /**
  * The main plugin action which executes the Smartsprite CSS Generator.
  *
- * @author	Stephan Hochdoerfer <S.Hochdoerfer@bitExpert.de>
+ * @author	Stephan Hochdörfer <S.Hochdoerfer@bitExpert.de>
  */
 
 

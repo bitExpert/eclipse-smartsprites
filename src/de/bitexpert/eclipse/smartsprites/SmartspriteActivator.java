@@ -25,7 +25,7 @@ import org.osgi.framework.BundleContext;
 /**
  * The activator class controls the plug-in`s life cycle.
  *
- * @author	Stephan Hochdoerfer <S.Hochdoerfer@bitExpert.de>
+ * @author	Stephan Hochdörfer <S.Hochdoerfer@bitExpert.de>
  */
 
 
